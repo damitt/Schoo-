@@ -1,0 +1,6 @@
+db:
+  dsn: sqlite:///./test.db
+  tables:
+    students: students
+    scores: scores
+
